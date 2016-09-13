@@ -5,4 +5,5 @@
 Robot git helper 🤖
 
 > _explicate (v, tr.)_
+> 
 > 1. to explain or analyse, to give a detailed explanation of something
