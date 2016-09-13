@@ -1,4 +1,4 @@
-baseurl = "http://ocean.github.io/explicator/"
+baseurl = "https://ocean.github.io/explicator/"
 languageCode = "en-au"
 title = "Explicator"
 theme = "hugo-lithium-theme"
